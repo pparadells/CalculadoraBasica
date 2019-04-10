@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Calculadora Básica</string>
+    <string name="num1">Introduce el primer valor</string>
+    <string name="num2">Introduce le segundo valor</string>
+    <string name="poc1">Sumar</string>
+    <string name="opc2">restar</string>
+    <string name="opc3">Multiplicar</string>
+    <string name="opc4">Dividir</string>
+    <string name="boton">CALCULAR</string>
+    <string name="resultado">Resultado</string>
+</resources>
